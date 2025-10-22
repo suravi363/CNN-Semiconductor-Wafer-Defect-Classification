@@ -15,7 +15,6 @@ This project leverages **CNN-based image classification** to automate the defect
  - WM-811K Wafer Map Dataset
  - [DATASET](http://mirlab.org/dataset/public/).
 
-
 ## Results
 
 | Metric | Value |
