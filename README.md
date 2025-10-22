@@ -10,7 +10,7 @@ Semiconductor manufacturing wafers often contain various defect patterns that ca
 This project leverages **CNN-based image classification** to automate the defect identification process using the **WM-811K Wafer Map Dataset**.
 
 
-## Dataset and google colab
+## Dataset 
 
  - WM-811K Wafer Map Dataset
  - [DATASET](http://mirlab.org/dataset/public/).
